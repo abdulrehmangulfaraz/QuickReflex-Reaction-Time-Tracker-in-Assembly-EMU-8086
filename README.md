@@ -77,10 +77,11 @@ You're free to use, modify, distribute, or integrate this program into your own 
 
 ---
 
-## 🔗 Connect with Me
+## ⚖️ Contact
 
-- 💼 [LinkedIn – Abdulrehman Gulfaraz](https://www.linkedin.com/in/abdulrehman-gulfaraz)  
-- 💻 [GitHub – abdulrehmangulfaraz](https://github.com/abdulrehmangulfaraz)
+* 🔗 **GitHub**: [abdulrehmangulfaraz](https://github.com/abdulrehmangulfaraz)
+* 🔗 **LinkedIn**: [abdulrehman-gulfaraz](https://www.linkedin.com/in/abdulrehman-gulfaraz)
+* 📧 **Email**: [abdulrehmangulfaraz1@gmail.com](mailto:abdulrehmangulfaraz1@gmail.com)
 
 ---
 
